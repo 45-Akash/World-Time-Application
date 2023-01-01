@@ -9,11 +9,12 @@ An application to get current time from any part of world
 ### Locations
 
 User can select the location from here
-![locations](https://user-images.githubusercontent.com/83642503/210168668-5af5401a-ffaf-4ab1-b941-8fc32e120795.png)
+![locations](https://user-images.githubusercontent.com/83642503/210168668-5af5401a-ffaf-4ab1-b941-8fc32e120795.png =40*100)
 
 ### Day
 
 If its Day time them App Interface will appear like
+![Day](https://user-images.githubusercontent.com/83642503/210169328-9de2c6bc-b25f-4ca6-8cb9-7b3bc98d015d.png)
 
 ### Night
 
