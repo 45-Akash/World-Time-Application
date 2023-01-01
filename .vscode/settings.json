@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/pubspec.json": "file:///a%3A/Projects/Flutter/world_time/pubspec.yaml"
+    }
+}
