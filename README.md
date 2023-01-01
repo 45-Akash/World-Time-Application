@@ -6,17 +6,20 @@ An application to get current time from any part of world
 * After this user will choose the location 
 * As soon as the user selects the location he gets the current time of that location 
 
-### Locations
 
+### Locations
 User can select the location from here
-![locations](https://user-images.githubusercontent.com/83642503/210168668-5af5401a-ffaf-4ab1-b941-8fc32e120795.png =40*100)
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/83642503/210168668-5af5401a-ffaf-4ab1-b941-8fc32e120795.png" width="300" height="600"> </p>
+
 
 ### Day
-
 If its Day time them App Interface will appear like
-![Day](https://user-images.githubusercontent.com/83642503/210169328-9de2c6bc-b25f-4ca6-8cb9-7b3bc98d015d.png)
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/83642503/210169328-9de2c6bc-b25f-4ca6-8cb9-7b3bc98d015d.png" width="300" height="600"> </p>
+
 
 ### Night
-
 If its Night time them App Interface will appear like
-![night](https://user-images.githubusercontent.com/83642503/210168762-47fbc7f5-359e-4456-a92d-de08f1339dbc.png)
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/83642503/210168762-47fbc7f5-359e-4456-a92d-de08f1339dbc.png" width="300" height="600"> </p>
